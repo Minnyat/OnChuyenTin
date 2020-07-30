@@ -8,7 +8,7 @@
 	 - [x] Hiện tại là du học sinh tại trường ITMO (Liên Bang Nga).
  2. **Các bạn sẽ học được nhưng gì:**
 	 - [x] Hiểu và sử dụng tốt ngôn ngữ lập trình C/C++.
-	 - [x] học các thuật toán cơ bản để có đủ kiến thức thi chuyên.
+	 - [x] Học các thuật toán cơ bản để có đủ kiến thức thi chuyên.
 	 - [x]  Luyện được kỹ năng tự học.
 3. **Các bạn cần chuẩn bị gì?**
 			Các bạn cần 1 chiếc máy tính, sự chăm chỉ và quyết 
