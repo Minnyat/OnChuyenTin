@@ -12,7 +12,7 @@
 	 - [x]  Luyện được kỹ năng tự học.
 3. **Các bạn cần chuẩn bị gì?**
 			Các bạn cần 1 chiếc máy tính, sự chăm chỉ và quyết 
-4. **Link làm tài liệu:** [Tài Liệu](https://drive.google.com/drive/folders/1Z0Z74YF996Eov4sXuRK_PXbotWjvsTLX?usp=sharing)
+4. **Link tài liệu:** [Tài Liệu](https://drive.google.com/drive/folders/1Z0Z74YF996Eov4sXuRK_PXbotWjvsTLX?usp=sharing)
 	****
 	**Cùng tham khảo khóa học này có gì nhé!**
 	[Bài đầu tiên](./Ngay1)
